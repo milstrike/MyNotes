@@ -40,7 +40,7 @@ The purpose of this project is to:
 1. Open NetBeans IDE.
 2. Click **File > Open Project...**
 3. Navigate to the directory where the MyNotes source folder is located.
-4. Select the root folder of the project (which includes `src/` and `nbproject/` if saved from NetBeans).
+4. Select the root folder of the project (which includes `src/` and `nbproject/`).
 5. Click **Open Project**.
 6. Press **F6** or click **Run > Run Project** to launch.
 
