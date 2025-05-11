@@ -44,7 +44,7 @@ The purpose of this project is to:
 5. Click **Open Project**.
 6. Press **F6** or click **Run > Run Project** to launch.
 
-📝 Make sure `me.png` is placed in the root directory (next to `.java` files or under `src/resources`) for About and Splash screen to show your photo correctly.
+📝 Make sure `me.png` is placed in the root directory for About and Splash screen to show your photo correctly.
 
 ---
 
