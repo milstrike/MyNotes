@@ -5,6 +5,11 @@
 [![Platform](https://img.shields.io/badge/platform-cross--platform-blue.svg)]()
 [![NetBeans](https://img.shields.io/badge/IDE-NetBeans-green.svg)](https://netbeans.apache.org)
 
+---
+<p align="center">
+  <img src="art/preview.png" width="400" alt="MyPad Screenshot" />
+</p>
+
 MyNotes is a lightweight, cross-platform notepad-like text editor built in Java using the Swing framework. Designed for educational purposes, this project demonstrates the core functionality of a desktop text editor with modern features such as undo/redo, line numbering, word wrap, splash screen, and user-friendly help/about dialogs.
 
 ---
